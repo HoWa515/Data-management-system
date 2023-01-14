@@ -1,5 +1,6 @@
 # Data-management-system
-A mini data management system
-using data_info.txt to simulate a database;
-run main.py, follow instructions step by step to perform “CRUD” operations on this mini database that manages business card；
-Finally, press '0' to exit the system, and the modified data will be saved automatically into local file 'data_info';
+This is a mini "DBMS" :
+Use data_info.txt to simulate a database that contains business cards;
+Run "main.py", follow instructions step by step to perform “CRUD” operations on this database;
+"tools.py" is written to pack all the corresponding functions;
+When press '0' and exit the system,  the modified data will be automatically saved as Json format into local file 'data_info.txt';
